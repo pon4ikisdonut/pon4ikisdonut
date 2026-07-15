@@ -69,13 +69,6 @@ const char *currently_learning[] = {
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pon4ikisdonut/pon4ikisdonut/main/t.svg" alt="trophies" />
-</div>
-
----
 
 ## 📊 GitHub Stats
 
