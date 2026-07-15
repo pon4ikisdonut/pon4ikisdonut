@@ -38,7 +38,7 @@ const char *minecraft[] = {
 };
 
 const char *currently_learning[] = {
-    "Rust programming language",
+    "Rust systems programming",
     "Cybersecurity & pentesting",
     NULL
 };
@@ -66,6 +66,14 @@ const char *currently_learning[] = {
 **Networking**
 
 ![Wireguard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pon4ikisdonut&theme=dracula&no-frame=true&row=1&column=7" />
+</div>
 
 ---
 
