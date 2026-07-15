@@ -81,7 +81,7 @@ const char *currently_learning[] = {
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-alpha-lake-72.vercel.app/api?username=pon4ikisdonut&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-alpha-lake-72.vercel.app/api/top-langs/?username=pon4ikisdonut&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-alpha-lake-72.vercel.app/api/top-langs/?username=pon4ikisdonut&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
