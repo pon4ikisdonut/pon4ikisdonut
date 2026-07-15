@@ -15,20 +15,18 @@
 ## 🧠 About Me
 
 ```yaml
-name:     pon4ik
-role:     Systems Administrator / Infrastructure Engineer / DevOps
+name:     pon4ikisdonut
+role:     Systems Administrator 
 company:  KyroSystems
-location: Ichnia, Chernihiv Oblast, Ukraine
+location: Chernihiv Oblast, Ukraine
 focus:
-  - Linux system administration & custom distros (LFS)
-  - Network infrastructure (MikroTik, routing protocols)
+  - Linux system administration 
   - Virtualization (Proxmox, LXC, Docker)
-  - GPU firmware & BIOS modification
-  - Game engine & systems-level programming (Rust/C)
+  - GPU overclocking
+  - Systems-level programming (Rust/C)
   - Android custom ROMs & mobile customization
 currently_learning:
   - Rust systems programming
-  - Game engine architecture
   - Cybersecurity & pentesting
 ```
 
