@@ -38,7 +38,7 @@ const char *minecraft[] = {
 };
 
 const char *currently_learning[] = {
-    "Rust systems programming",
+    "Rust programming language",
     "Cybersecurity & pentesting",
     NULL
 };
