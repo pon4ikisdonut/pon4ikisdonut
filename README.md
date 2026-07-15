@@ -61,7 +61,7 @@ const char *currently_learning[] = {
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Networking**
 
@@ -72,7 +72,7 @@ const char *currently_learning[] = {
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pon4ikisdonut&theme=dracula&no-frame=true&row=1&column=7" />
+  <img src="https://raw.githubusercontent.com/pon4ikisdonut/pon4ikisdonut/main/t.svg" alt="trophies" />
 </div>
 
 ---
@@ -80,12 +80,12 @@ const char *currently_learning[] = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pon4ikisdonut&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pon4ikisdonut&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pon4ikisdonut&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pon4ikisdonut&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pon4ikisdonut&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=pon4ikisdonut&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
