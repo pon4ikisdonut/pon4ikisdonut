@@ -18,16 +18,14 @@
 /**
  * @name:     pon4ikisdonut
  * @role:     Systems Administrator
- * @company:  KyroSystems
  * @location: Chernihiv Oblast, Ukraine
  */
 
 const char *focus[] = {
     "Linux system administration",
-    "Virtualization (Proxmox, LXC, Docker)",
+    "Virtualization (Proxmox, LXC)",
     "GPU overclocking",
-    "Systems-level programming (Rust/C)",
-    "Android custom ROMs & mobile customization",
+    "Systems-level programming",
     NULL
 };
 
@@ -38,7 +36,6 @@ const char *minecraft[] = {
 };
 
 const char *currently_learning[] = {
-    "Rust systems programming",
     "Cybersecurity & pentesting",
     NULL
 };
