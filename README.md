@@ -24,7 +24,7 @@ You can read more about me **[here](https://t.me/pon4ikbio)**.
 
 ---
 
-### 📢 Telegram chAnals
+### 📢 Telegram channels
 
 * 🛠 **[@mdaDOTpon4ik](https://t.me/mdaDOTpon4ik)** — Windows tweaks and bypasses
 * 📝 **[@pon4iklife](https://t.me/pon4iklife)** — my personal live TG channel
