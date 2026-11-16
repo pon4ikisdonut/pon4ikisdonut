@@ -1,93 +1,31 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+pon4ikisdonut+%F0%9F%91%BE." alt="Typing SVG" />
-</div>
+# pon4ikisdonut
 
-<div align="center">
+Всем привет!! Я начинающий сисадмин из Украины. Имею реальный опыт с железом, игровыми серверами, поднятием и настройкой всяких панелек и т.п.
 
-[![Website](https://img.shields.io/badge/🌐_Website-pon4ikisdonut.pp.ua-00D9FF?style=for-the-badge)](https://pon4ikisdonut.pp.ua)
-[![Company](https://img.shields.io/badge/🏢_KyroSystems-555555?style=for-the-badge)](https://github.com/pon4ikisdonut)
-[![Location](https://img.shields.io/badge/📍_Ukraine-FFD700?style=for-the-badge)](https://github.com/pon4ikisdonut)
+Держу пару своих небольших сайтиков (естественно, навайбкоженных):
+* **[femboy.pp.ua](https://femboy.pp.ua)** — мой личный список фембоев со всего мира (пополняется по заявкам желающих)
+* **[pon4ikisdonut.pp.ua](https://pon4ikisdonut.pp.ua)** — мой основной сайт, что-то типа биографии
 
-</div>
+Подробнее обо мне можно почитать **[тут](https://t.me/pon4ikbio)**.
 
 ---
 
-## 🧠 About Me
-
-```c
-/**
- * @name:     pon4ikisdonut
- * @role:     Systems Administrator
- * @location: Chernihiv Oblast, Ukraine
- */
-
-const char *focus[] = {
-    "Linux system administration",
-    "Virtualization (Proxmox, LXC)",
-    "GPU overclocking",
-    "Systems-level programming",
-    NULL
-};
-
-const char *minecraft[] = {
-    "Tech Admin @ LHC",
-    "Tech Admin @ LastSMP",
-    NULL
-};
-
-const char *currently_learning[] = {
-    "Cybersecurity & pentesting",
-    NULL
-};
-```
+* **Ориентация:** КвасСексуал
+* **Религиозные взгляды:** Агностик
 
 ---
 
-## 🛠️ Tech Stack
-
-**OS & Infra**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![openSUSE](https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&logo=opensuse&logoColor=white)
-![HyperOS](https://img.shields.io/badge/Rooted_HyperOS-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-**Networking**
-
-![Wireguard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+### 🔗 Ссылки
+* [HWBOT](https://hwbot.org/users/pon4ikisadonut) | [Main Site](https://pon4ikisdonut.pp.ua) | 
+* [Femboy List](https://femboy.pp.ua) | [Личка ТГ](https://t.me/pon4ikisdonut)
+* [OpenVK](https://openvk.org/pon4ikisdonut) *(сижу редко, приоритетнее ТГ)*
 
 ---
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-alpha-lake-72.vercel.app/api?username=pon4ikisdonut&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-alpha-lake-72.vercel.app/api/top-langs/?username=pon4ikisdonut&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=pon4ikisdonut&theme=tokyonight&hide_border=true" />
-</div>
+### 📢 кАналы в телеграмме 
+* 🛠 **[@mdaDOTpon4ik](https://t.me/mdaDOTpon4ik)** — твики и обходы для винды
+* 📝 **[@pon4iklife](https://t.me/pon4iklife)** — мой личный live ТГК
+* 🎁 **[@pon4ikisdonutwishlist](https://t.me/pon4ikisdonutwishlist)** — Wishlist
+* 🍒 **[@CherrygramNB](https://t.me/CherrygramNB)** — мой форк Cherrygram
 
 ---
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pon4ikisdonut&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pon4ikisdonut&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
-</div>
